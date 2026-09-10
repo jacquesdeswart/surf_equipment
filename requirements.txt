@@ -1,0 +1,7 @@
+pandas
+openpyxl
+graphviz
+playwright
+nbclient
+ipykernel
+jinja2
