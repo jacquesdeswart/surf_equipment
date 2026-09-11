@@ -41,7 +41,7 @@
 <text text-anchor="start" x="535" y="-523.8" font-family="Times,serif" font-size="14.00"> extension_id : TEXT</text>
 <text text-anchor="start" x="535" y="-498.8" font-family="Times,serif" font-size="14.00"> extension_length_setting : TEXT</text>
 <text text-anchor="start" x="535" y="-473.8" font-family="Times,serif" font-size="14.00"> boom_id : TEXT</text>
-<text text-anchor="start" x="535" y="-448.8" font-family="Times,serif" font-size="14.00"> boom_length_setting : REAL</text>
+<text text-anchor="start" x="535" y="-448.8" font-family="Times,serif" font-size="14.00"> boom_length_setting : TEXT</text>
 <text text-anchor="start" x="535" y="-423.8" font-family="Times,serif" font-size="14.00"> rdm_sdm_shim_id : TEXT</text>
 <text text-anchor="start" x="535" y="-398.8" font-family="Times,serif" font-size="14.00"> uphaul_id : TEXT</text>
 <text text-anchor="start" x="535" y="-373.8" font-family="Times,serif" font-size="14.00"> harness_line_id : TEXT</text>
